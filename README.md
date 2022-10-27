@@ -1,7 +1,7 @@
 ## Currículo
 
-Status do Projeto
-<p align="center">Currículo ✅ Concluído</p>
+Status do projeto
+<p align="center">✅ Concluído</p>
 
 Projeto realizado para a Jornada Dev da EBAC.  
 Ao longo da semana do evento foram introduzidos conceitos e funções de HTML, CSS, Git e GitHub.
